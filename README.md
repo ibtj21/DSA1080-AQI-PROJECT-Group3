@@ -1,5 +1,4 @@
 # DSA1080-AQI-PROJECT-Group3
-# DSA1080-AQI-PROJECT
 
 This project was conducted as part of the DSA1080 class at United States International University Africa. Our group, Group 3, focused on analyzing air quality across eight major cities around the world over a three-month period (March-May 2024).
 

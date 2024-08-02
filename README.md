@@ -39,7 +39,7 @@ This project was conducted as part of the DSA1080 class at United States Interna
 ## How to Use
 1. **Clone the repository**: Download the project files from GitHub by running the command:
    ```bash
-   git clone https://github.com/ibtj21/DSA1080-AQI-PROJECT.git
+   git clone https://github.com/ibtj21/DSA1080-AQI-PROJECT-Group3.git
 2.Navigate to the project directory: DSA1080-AQI-PROJECT
 
 3. Explore the data and scripts to understand the analysis process.
